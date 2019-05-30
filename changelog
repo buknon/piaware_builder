@@ -1,3 +1,7 @@
+piaware (3.7.1) stable; urgency=medium
+
+  * Update to piaware 3.7.1
+ 
 piaware (3.6.3) stable; urgency=medium
 
   * Avoid rewriting the cached receiver location frequently when using a
